@@ -1,7 +1,7 @@
 # SE Primer · Yazılım Mühendisliği İnteraktif Kriz Simülasyonu
 **Ders:** YZM301 Yazılım Mühendisliği  
 **Proje:** 1. Hafta — SE Primer  
-**Canlı Uygulama:** https://ai.studio/apps/93f2bbb4-a9b3-4c1b-bcf7-0d268622c331 
+**Canlı Uygulama:** https://ai.studio/apps/93f2bbb4-a9b3-4c1b-bcf7-0d268622c331
 **Kaynak:** Neal Stephenson, *The Diamond Age: Or, A Young Lady's Illustrated Primer* & Google Stitch  
 
 ---
