@@ -1,3 +1,5 @@
+https://github.com/user-attachments/assets/a1615226-5c0b-4d5c-b99a-4fc318406754
+
 # SE Primer · Yazılım Mühendisliği İnteraktif Kriz Simülasyonu
 **Ders:** YZM301 Yazılım Mühendisliği  
 **Proje:** 1. Hafta — SE Primer  
